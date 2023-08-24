@@ -1,5 +1,3 @@
-Chatbots, virtual assistants, and other AI-powered tools for customer service
-===============================================================================================================================
 
 Small businesses can use AI-powered tools to enhance the customer experience by providing personalized recommendations, improving response times, and automating routine tasks. In this chapter, we will discuss some of the most popular AI-powered tools for customer service, including chatbots and virtual assistants.
 

@@ -1,5 +1,3 @@
-Use of AI for Automating Repetitive Tasks and Processes
-===============================================================================================================
 
 The use of AI for automating repetitive tasks and processes can increase efficiency and productivity in small businesses. In this chapter, we will explore the ways AI can be used to automate repetitive tasks and processes.
 

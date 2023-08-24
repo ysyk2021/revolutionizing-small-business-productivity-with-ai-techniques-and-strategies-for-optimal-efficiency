@@ -1,5 +1,3 @@
-Chapter 6: Building a Sustainable Productivity Practice with AI
-===============================================================
 
 Building a sustainable productivity practice with AI requires careful planning, implementation, and ongoing monitoring. In this chapter, we will discuss some key strategies for building a sustainable productivity practice with AI, as well as potential challenges and obstacles to be aware of, and how to ensure privacy and security in AI-powered productivity practices.
 

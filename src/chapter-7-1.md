@@ -1,5 +1,3 @@
-Strategies for building a sustainable productivity practice with AI
-====================================================================================================================================
 
 Building a sustainable productivity practice with AI requires careful planning and implementation. In this chapter, we will discuss some key strategies for building a sustainable productivity practice with AI.
 

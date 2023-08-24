@@ -1,4 +1,3 @@
-# Types of AI: natural language processing, machine learning, and deep learning
 
 In this chapter, we will explore different types of Artificial Intelligence (AI) and how they revolutionize small business productivity. Three prominent types of AI that have proven to be effective in enhancing efficiency are natural language processing, machine learning, and deep learning.
 
