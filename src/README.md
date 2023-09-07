@@ -10,3 +10,7 @@ This book is intended for small business owners, managers, and entrepreneurs who
 In the following chapters, we'll explore the different types of AI technology, their applications in small business management, and best practices for implementation. By understanding the benefits and challenges of using AI in small business management, you can make informed decisions about leveraging this technology to optimize your operations and drive growth.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
