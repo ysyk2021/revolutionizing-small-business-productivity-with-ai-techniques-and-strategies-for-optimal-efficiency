@@ -1,5 +1,4 @@
-Chapter: Chatbots, Virtual Assistants, and Other AI-Powered Tools for Customer Service
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's digital age, small businesses are leveraging AI-powered tools to enhance customer service and improve overall productivity. In this chapter, we explore the role of chatbots, virtual assistants, and other AI-powered tools in revolutionizing customer service for small businesses.
 

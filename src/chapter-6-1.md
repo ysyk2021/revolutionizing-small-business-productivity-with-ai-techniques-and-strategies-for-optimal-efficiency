@@ -1,5 +1,4 @@
-Chapter: Use of AI for Targeted Advertising and Personalized Marketing Campaigns
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the utilization of AI techniques for targeted advertising and personalized marketing campaigns in small businesses. We delve into the benefits, challenges, and strategies associated with leveraging AI to optimize marketing efforts and enhance customer engagement.
 

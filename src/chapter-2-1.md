@@ -1,5 +1,4 @@
-Chapter: Explanation of AI Technology and Its Capabilities for Small Business Management
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an in-depth explanation of AI (Artificial Intelligence) technology and its vast capabilities for small business management. We explore various AI techniques and their potential applications, highlighting how they can revolutionize operations, enhance decision-making processes, and drive optimal efficiency.
 

@@ -1,5 +1,4 @@
-Chapter: Strategies for Building a Sustainable Productivity Practice with AI
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To truly revolutionize small business productivity and achieve optimal efficiency, it is essential to implement sustainable practices when integrating Artificial Intelligence (AI) techniques. In this chapter, we explore key strategies that small businesses can adopt to build a sustainable productivity practice with AI.
 

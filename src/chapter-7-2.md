@@ -1,5 +1,4 @@
-Chapter: Addressing Potential Challenges and Obstacles in Using AI for Productivity
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing AI techniques and strategies for small business productivity can bring numerous benefits, but it's important to recognize and address the potential challenges and obstacles that may arise. In this chapter, we explore some common challenges and provide strategies to overcome them.
 

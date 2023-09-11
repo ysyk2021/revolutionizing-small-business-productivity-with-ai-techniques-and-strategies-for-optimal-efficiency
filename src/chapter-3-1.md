@@ -1,5 +1,4 @@
-Chapter: Use of AI for Automating Repetitive Tasks and Processes
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's fast-paced business environment, small businesses need to find ways to streamline their operations and improve efficiency. One effective approach is leveraging artificial intelligence (AI) to automate repetitive tasks and processes. This chapter explores the various AI techniques and strategies that can revolutionize small business productivity by automating mundane and time-consuming activities.
 

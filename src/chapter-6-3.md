@@ -1,5 +1,4 @@
-Chapter: Addressing Ethical Considerations in Using AI for Marketing and Advertising
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter delves into the ethical considerations that small businesses should address when utilizing AI for marketing and advertising purposes. We explore the potential risks and challenges associated with AI-powered marketing, and provide strategies to ensure responsible and ethical use of these technologies.
 

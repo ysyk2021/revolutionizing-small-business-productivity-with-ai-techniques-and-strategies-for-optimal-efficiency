@@ -1,5 +1,4 @@
-Chapter: Potential Limitations and Ethical Considerations in Using AI for Data Analysis
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the potential limitations and ethical considerations that arise when using AI techniques for data analysis in small businesses. We examine the challenges and risks associated with relying on AI algorithms to analyze data, and discuss the importance of ethical decision-making and responsible practices in the use of AI.
 
